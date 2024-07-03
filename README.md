@@ -1,2 +1,2 @@
 # hafta7
-7. hafta ödev
+# Kodluyoruz Mobil Atölye 7. Hafta Ödevi
